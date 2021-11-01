@@ -1,2 +1,2 @@
-# Sindirim-Sistemi-Kanser-T-r-Tespiti
+# Sindirim-Sistemi-Kanser-Tür-Tespiti
 21-22 Makine Öğrenmesi Projesi
